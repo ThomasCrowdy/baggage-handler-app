@@ -1,0 +1,6 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 120,
+  "editor.formatOnSave": true,
+  "cSpell.words": ["dompurify", "FILEUPLOAD", "Heka", "hookform", "IMAGELIBRARY", "logrocket", "RICHTEXT", "vars"]
+}
